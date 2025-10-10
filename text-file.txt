@@ -1,0 +1,39 @@
+### Sizing
+    => Screen = 1600px
+    => padding-x = 80px
+
+### Project Tracking
+    => Project set-up   <=> (Done)
+    => Fixed Components 
+        -->> Header
+        -->> Footer
+    => Generate Fake Data
+    => Home Page
+        -->> Banner
+        -->> States section
+        -->> Top app section
+            => App details
+                -->> App information
+                -->> App review chart
+                -->> Description
+    => All app page
+        -->> Title
+        -->> States and Search
+        -->> App section 
+    => 404 error page
+    => Loading animation during 
+        -->> page navigation
+        -->> search operation
+    => Show a Relevant Not Found message app not found in app details section
+    => Ensure that reloading any route after deployment does not cause an error
+    => LocalStorage features
+        -->> Installed app Data
+        -->> If any app is in the storage, install button will be disabled
+    => My installation page
+        -->> Title
+        -->> States and Sort bt downloads
+        -->> Installed apps and uninstall button and functionalities 
+    => Toast message on install and uninstall
+    => Sort bt downloads 
+
+    
