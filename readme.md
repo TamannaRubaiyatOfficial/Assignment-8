@@ -17,14 +17,14 @@
 
 ## 1. 🧱 Layout & Data Design
 
-#### Header
+#### Header (Done)
 
 - The header must include:
   - A logo.on clicking it user will be navigated to home page.
   - A navigation bar with links [ `home` , `apps` , `installation` ] and active route indication.
   - A `Contribution` button as Figma linking to the your GitHub profile.
 
-#### Footer
+#### Footer (Done)
 
 - Design a custom footer using your own creativity and style.
 

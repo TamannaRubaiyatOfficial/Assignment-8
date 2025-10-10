@@ -1,0 +1,49 @@
+.header-menu {
+    color: #000000e6;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    transition: font-weight 0.3s ease, color 0.3s ease;
+    position: relative;
+    padding: 0 4px;
+}
+
+.header-menu:hover,
+.header-menu.active {
+    font-weight: 600;
+    background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.header-menu::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0%;
+    height: 2px;
+    background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+    transition: width 0.3s ease;
+}
+
+.header-menu:hover::after,
+.header-menu.active::after {
+    width: 100%;
+}
+
+@media screen and (max-width: 575.98px) {
+    .header {
+        padding: 8px 10px;
+    }
+    .header-btn {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 1023.98px) {
+    .header-menu {
+        margin-top: 20px;
+    }
+}
