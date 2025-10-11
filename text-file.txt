@@ -7,16 +7,16 @@
 
 ### Project Tracking
     => Project set-up   <=> (Done)
-    => Fixed Components 
+    => Fixed Components <=> (Done) 
         -->> Header <=> (Done)
             + Responsive
         -->> Footer <=> (Done)
             + Responsive
-    => Generate Fake Data
+    => Generate Fake Data <=> (Done)
     => Home Page
-        -->> Banner
+        -->> Banner <=> (Done)
             + Responsive
-        -->> States section
+        -->> States section <=> (Done)
             + Responsive
         -->> Top app section
             + Responsive

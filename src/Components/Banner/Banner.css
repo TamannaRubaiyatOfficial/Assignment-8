@@ -1,0 +1,13 @@
+.hero-h2-gradient {
+    background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+}
+
+@media screen and (max-width: 575.98px) {
+    .banner {
+        padding: 20px 10px 0;
+    }
+}

@@ -28,7 +28,7 @@
 
 - Design a custom footer using your own creativity and style.
 
-#### Data
+#### Data (Done)
 
 - Create an JSON Array of minimum 12-20 objects for app data using the following structure:
   ```js
@@ -56,13 +56,13 @@
 
 ## 2. 🏠 Home Page
 
-#### Banner
+#### Banner (Done)
 
 - Must contain a center-aligned heading, text, and two buttons.
 - “App Store” button will redirect to the App Store.
 - “Play Store” button will redirect to the Play Store.
 
-#### States Section
+#### States Section (Done)
 
 - Must contain three state cards as shown in Figma.
 - Each state should have a title and a unique background color or style.
