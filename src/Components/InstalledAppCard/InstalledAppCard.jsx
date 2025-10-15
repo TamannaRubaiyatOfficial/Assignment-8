@@ -4,15 +4,21 @@ import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { Download } from 'lucide-react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { toast, ToastContainer } from 'react-toastify';
-import { NavLink } from 'react-router';
-// import { getStoredData } from '../../Utilities/addToStorage';
+import 'react-toastify/ReactToastify.css'
 
 const InstalledAppCard = ({ filteredApp, handleUninstall }) => {
 
     const { id, image, title, size, ratingAvg, downloads } = filteredApp;
 
     const handleUninstallApps = (id) => {
-        toast('app uninstalled');
+        toast.success(`${title} uninstalled successfully \nfrom your device!`, {
+            position: 'top-center',
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+        });
         handleUninstall(id);
     }
 
@@ -46,15 +52,13 @@ const InstalledAppCard = ({ filteredApp, handleUninstall }) => {
                 </div>
 
                 <div>
-                    <NavLink to='/installation'>
-                        <button onClick={() => handleUninstallApps(id)} className='px-4 py-3 bg-[#00D390] rounded text-white text-base font-semibold capitalize cursor-pointer'>
-                            uninstall
-                        </button>
-                    </NavLink>
+                    <button onClick={() => handleUninstallApps(id)} className='px-4 py-3 bg-[#00D390] rounded text-white text-base font-semibold capitalize cursor-pointer'>
+                        uninstall
+                    </button>
                 </div>
-
             </div>
-            <ToastContainer></ToastContainer>
+            {/* <ToastContainer></ToastContainer> */}
+
         </>
     );
 };

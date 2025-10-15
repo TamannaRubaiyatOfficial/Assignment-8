@@ -27,7 +27,14 @@ const AppDetails = () => {
 
     const handleInstallButton = () => {
         setIsInstalled(true);
-        toast('App installed');
+        toast.success(`Yahoo ⚡\n${title} installed successfully!`, {
+            position: 'top-center',
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+        });
         addStoredData(id)
     }
 

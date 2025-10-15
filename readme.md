@@ -164,7 +164,7 @@
 
 ---
 
-### Sort by Downloads
+### Sort by Downloads (Done)
 
 - Implement a dropdown for sorting apps by download count.
 - The dropdown must include:
@@ -191,7 +191,6 @@
 
 
 ### Need Improvement
-  - Custom design for toast msz
   - responsiveness 
   - Show a loading animation during:
     - Page navigation. 
