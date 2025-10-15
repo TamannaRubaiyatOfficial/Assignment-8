@@ -62,7 +62,7 @@ const NavBar = () => {
 
                         {/* header button */}
                         <a href="https://github.com/TamannaRubaiyatOfficial" target="_blank" rel="noopener noreferrer">
-                            <button className='px-3 py-2 md:px-4 md:py-3 rounded bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] text-white text-base font-semibold capitalize cursor-pointer'>
+                            <button className='px-3 py-2 md:px-4 md:py-3 rounded bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] text-white text-base font-semibold capitalize cursor-pointer hover:shadow-lg duration-[0.3s] transition-all'>
                                 <FontAwesomeIcon className='text-[20px]' icon={faGithub} />
                                 <span className='header-btn ml-[10px]'>contribute</span>
                             </button>

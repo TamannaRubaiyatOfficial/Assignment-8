@@ -13,19 +13,19 @@
         -->> Footer <=> (Done)
             + Responsive
     => Generate Fake Data <=> (Done)
-    => Home Page
+    => Home Page (Done)
         -->> Banner <=> (Done)
             + Responsive
         -->> States section <=> (Done)
             + Responsive
-        -->> Top app section
+        -->> Top app section <=> (Done)
             + Responsive
-            => App details
+            => App details <=> (Done)
                 -->> App information
                 -->> App review chart
                 -->> Description
                 + Responsive
-    => All app page
+    => All app page (Done)
         -->> Title
         -->> States and Search
         -->> App section 

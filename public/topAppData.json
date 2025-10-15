@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pjfxwpZ5/task-Manager.webp",
+    "title": "TaskMaster",
+    "companyName": "Productive Labs",
+    "id": 1,
+    "description": "TaskMaster is your intelligent productivity partner designed to help you plan, prioritize, and complete daily work with confidence. It provides a simple, elegant interface that makes creating and organizing tasks fast and intuitive. You can create projects, add subtasks, set deadlines, and attach notes or files for each item. Smart reminders and adaptive scheduling ensure you never miss important tasks while the built-in analytics show where your time goes. Collaboration features allow teams to assign responsibilities, leave comments, and track progress in real time. Offline access and seamless cloud sync keep your data available even without an internet connection. Security features ensure your personal and team data remain private and encrypted.",
+    "size": 45,
+    "reviews": 1280,
+    "ratingAvg": 4.6,
+    "downloads": 1520000,
+    "ratings": [
+      { "name": "1 star", "count": 32 },
+      { "name": "2 star", "count": 44 },
+      { "name": "3 star", "count": 102 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 802 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/23GV5tjH/5-SLG2s107u-PPgbkj-Fs-Kxd-EMI8-P85-FDx-Zz-Z2l-Xsry-Bx-P3-Dhc-H49-ILOt-W7verzg-V6-Xoavz.png",
+    "title": "FitTrack",
+    "companyName": "Healthify Inc",
+    "id": 2,
+    "description": "FitTrack is a full-featured fitness app that blends workout tracking, nutrition logging, and recovery guidance into one experience. The app learns from your history to suggest personalized workouts and daily calorie goals tailored to your lifestyle. It integrates with popular wearables to capture heart rate, steps, and sleep metrics automatically. Guided video workouts and step-by-step plans make it simple for users at all fitness levels to follow expert routines. The community challenges and leaderboards create motivation and social accountability. Data visualizations show progress over weeks and months, while reminders and habit streaks help build consistent routines. Built-in coaching tips and AI suggestions help refine your plan as you improve.",
+    "size": 52,
+    "reviews": 3180,
+    "ratingAvg": 4.8,
+    "downloads": 5035000,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 112 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 425 },
+      { "name": "5 star", "count": 2338 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zhbqhBfN/f3ej-Hit0-Za-O2-R3f1-U0-Uc-FPCSE43-Np-Q4ye-Gmfw-VX75z-KV-2-DDn-VQTNL4-Uin4-ZWka-GYr90.png",
+    "title": "NoteEase",
+    "companyName": "SmartDesk Studio",
+    "id": 3,
+    "description": "NoteEase is a modern note-taking app built for capturing ideas quickly and organizing knowledge effectively. It supports text, images, audio recordings, and sketches, letting you record thoughts in the format that suits you best. Powerful tagging, folders, and search capabilities make it easy to find notes when you need them. The app syncs securely across devices so your notes are available on mobile and desktop. An optional AI summary feature distills long notes into key points for fast review. For teams, shared notebooks and real-time collaboration simplify project documentation. Fine-grained export options let you save and share notes as PDFs or Markdown for use outside the app.",
+    "size": 28,
+    "reviews": 2210,
+    "ratingAvg": 4.4,
+    "downloads": 2012000,
+    "ratings": [
+      { "name": "1 star", "count": 62 },
+      { "name": "2 star", "count": 92 },
+      { "name": "3 star", "count": 255 },
+      { "name": "4 star", "count": 610 },
+      { "name": "5 star", "count": 1191 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WWHG1SxZ/j5k-C50-K3-uw-XDHJKm-I73-KKLsvn3o-An2-Ps7-TV-7-UDnp9-X-f6-Y-8h-O-NFNvl26gc-Frp-E.png",
+    "title": "BudgetPal",
+    "companyName": "FinSync Technologies",
+    "id": 4,
+    "description": "BudgetPal helps you understand and control your finances by turning complex budgets into simple actionable steps. It connects to your accounts to categorize transactions automatically and shows trends in spending so you can spot savings opportunities. You can create multiple budgets, set targets, and receive alerts when you get close to limits. Useful visualizations make monthly and yearly comparisons easy, and clear reports provide insight into where your money flows. The app includes savings goals, bill reminders, and suggestions to reduce unnecessary subscriptions. BudgetPal values data privacy and stores financial data with robust encryption. Expert-written guides help users learn financial planning basics and build healthier money habits.",
+    "size": 39,
+    "reviews": 915,
+    "ratingAvg": 4.3,
+    "downloads": 1215000,
+    "ratings": [
+      { "name": "1 star", "count": 41 },
+      { "name": "2 star", "count": 53 },
+      { "name": "3 star", "count": 165 },
+      { "name": "4 star", "count": 287 },
+      { "name": "5 star", "count": 369 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zWTR8htY/T0-ELxdc-TQ7-Tg-6-H8m-Fj8rr-Iher-EY29-BOQq-Mle-FUGb-Yu-Sx-E4ars-Ipy-Kn-3gvdq5-NFag.png",
+    "title": "PhotoVerse",
+    "companyName": "PixelCraft",
+    "id": 5,
+    "description": "PhotoVerse is a professional-grade photo editor packed into a beautifully designed mobile experience. It offers non-destructive editing, layer support, advanced color controls, and a large library of creative filters and overlays. The AI-powered auto-enhance can adjust exposure, contrast, and color balance with a single tap while manual controls remain available for creative precision. PhotoVerse supports RAW files and gives photographers the flexibility to export high-quality images for print or web. Built-in tutorials and template presets help users create consistent visual styles quickly. For collaboration, teams can share projects and comment on edits in real time. Regular content packs and community challenges keep creative inspiration flowing.",
+    "size": 78,
+    "reviews": 5450,
+    "ratingAvg": 4.7,
+    "downloads": 8560000,
+    "ratings": [
+      { "name": "1 star", "count": 152 },
+      { "name": "2 star", "count": 185 },
+      { "name": "3 star", "count": 403 },
+      { "name": "4 star", "count": 1008 },
+      { "name": "5 star", "count": 3702 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yBnPfrC7/images-q-tbn-ANd9-Gc-QQi-JMv-DW-Ag-Cyoe-Vj-FAREJr-UV6-NLq-Ys-UAfg-Q-s.png",
+    "title": "CookEasy",
+    "companyName": "HomeChef Labs",
+    "id": 6,
+    "description": "CookEasy is an all-in-one recipe and meal planning app for home cooks of any skill level. Browse thousands of chef-tested recipes, filter by dietary preferences, and generate automatic shopping lists based on your weekly menu. Step-by-step guided cooking mode keeps your hands free while the app talks you through each stage and timers keep things on schedule. CookEasy learns your favorite flavors and suggests personalized recipes, helping reduce food waste with portion calculators. Nutrition labels are available for every recipe, and you can sync favorites across devices. The app includes video tutorials from professional chefs and an active community sharing tips and adaptations. Offline access ensures recipes are always available at the stove.",
+    "size": 40,
+    "reviews": 1920,
+    "ratingAvg": 4.5,
+    "downloads": 2124000,
+    "ratings": [
+      { "name": "1 star", "count": 52 },
+      { "name": "2 star", "count": 74 },
+      { "name": "3 star", "count": 198 },
+      { "name": "4 star", "count": 558 },
+      { "name": "5 star", "count": 1038 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Tx2b3QWW/S5c-HQc3-S-id-ZUy-Htxxup7-Pl-Z1mr7kj-YVkui-B8kl-EIqm2-Odot-Hk-K1-Dwyym-Hor-MDSbc.png",
+    "title": "TravelMate",
+    "companyName": "GlobeTrek",
+    "id": 7,
+    "description": "TravelMate is a smart travel planner that helps you discover destinations, compare accommodations, and build complete itineraries in minutes. The app offers curated suggestions based on your interests—food, adventure, culture—and provides local tips from experienced travelers. You can manage bookings, store travel documents, and sync itineraries offline for use without roaming. Real-time price alerts and fare tracking help you find the best deals on flights, while built-in maps show points of interest with estimated travel times. TravelMate supports collaborative planning so friends can contribute to the same trip. Safety features include local emergency contacts and travel advisories. After each trip, TravelMate generates a beautiful recap with photos and highlights.",
+    "size": 62,
+    "reviews": 4140,
+    "ratingAvg": 4.6,
+    "downloads": 6720000,
+    "ratings": [
+      { "name": "1 star", "count": 121 },
+      { "name": "2 star", "count": 152 },
+      { "name": "3 star", "count": 301 },
+      { "name": "4 star", "count": 811 },
+      { "name": "5 star", "count": 2755 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TM4VNG36/fyjv-TVsbh-Rk-Uky5be-Amv-BStzj-Gdf-GHn-Fpik0-I1-Qck71-BKn-Hiblf-Nz-FY4i-XXb-IOka0.png",
+    "title": "MindFlow",
+    "companyName": "Zen Labs",
+    "id": 8,
+    "description": "MindFlow is a meditation and mindfulness app focused on improving mental clarity and stress resilience. It provides guided meditations, breathing exercises, and sleep stories to help users unwind and sleep better. Programs are tailored by experience level and intended outcomes such as stress reduction, focus improvement, or better sleep quality. Daily streaks and gentle reminders encourage small, sustainable habits without pressure. The app features mood tracking and progress reports that visualize long-term benefits. MindFlow also includes short micro-practices for busy moments and workplace-focused sessions to help teams reduce burnout. The app prioritizes privacy, with all sensitive user data securely stored and never shared without consent.",
+    "size": 33,
+    "reviews": 2830,
+    "ratingAvg": 4.9,
+    "downloads": 4920000,
+    "ratings": [
+      { "name": "1 star", "count": 42 },
+      { "name": "2 star", "count": 63 },
+      { "name": "3 star", "count": 105 },
+      { "name": "4 star", "count": 405 },
+      { "name": "5 star", "count": 2215 }
+    ]
+  }
+]

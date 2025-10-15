@@ -67,34 +67,34 @@
 - Must contain three state cards as shown in Figma.
 - Each state should have a title and a unique background color or style.
 
-#### Top Apps Section
+#### Top Apps Section (Done)
 
-- Display eight apps in a four-column layout.
-- Each app card should display:
+- Display eight apps in a four-column layout. (Done)
+- Each app card should display: (Done)
   - App title
   - Image
   - Download count
   - Average rating
-- Clicking on a card should navigate the user to the App Details page.
-- Include a “Show All” button that navigates to the All Apps page.
+- Clicking on a card should navigate the user to the App Details page. (Done)
+- Include a “Show All” button that navigates to the All Apps page. (Done)
 
 ---
 
 ## 3.📱 All Apps Page
 
-#### Title Section
+#### Title Section (Done)
 
 - Include a title and subtitle following the Figma design.
 
-#### Search and States
+#### Search and States (Done)
 
-- Display the total number of apps on the left and a search bar on the right.
-- `Implement live search functionality`
+- Display the total number of apps on the left and a search bar on the right. (Done)
+- `Implement live search functionality` (Done)
   - filters apps by title as the user types.
   - Search will be case-insensitive
   - If no app matches, display a “No App Found” message.
 
-#### App Section
+#### App Section (Done)
 
 - Display all apps from the JSON data.
 - Each app card should include:
@@ -106,39 +106,40 @@
 
 ---
 
-## 4.📊 App Details Page
+## 4.📊 App Details Page (Done)
 
-#### App Information
+#### App Information (Done)
 
-- Show app image on the left.
-- Display app details such as title, rating, downloads, reviews.
-- Include an `Install button`:
+- Show app image on the left. (Done)
+- Display app details such as title, rating, downloads, reviews. (Done)
+- Include an `Install button`: (Done)
   - When clicked, it becomes disabled and the text changes to `Installed`.
-  - Show a Success Toast after App installed
+  - Show a Success Toast after App installed (Done)
 
-#### App Review Chart
+#### App Review Chart (Done)
 
 - Implement a responsive chart using the **Recharts** library.
 - Visualize the app’s review data as shown in the Figma design.
 
-#### App Description
+#### App Description (Done)
 
 - Show the app details in description section as per Figma layout.
 
 ---
 
-## 5. Error Page & Others
+## 5. Error Page & Others (Done)
 
-- Create a custom error page for invalid routes.
+  - Create a custom error page for invalid routes. (Done)
 
-- Show a loading animation during: `Challenge Part`  
+
+### Show a loading animation during: `Challenge Part`  
 
   - Page navigation. 
   - Search operation.
 
-- Show a Relevant Not Found message app not found in app details section.
+- Show a Relevant Not Found message app not found in app details section. (Done)
 
-- Ensure that reloading any route after deployment does not cause an error.
+- Ensure that reloading any route after deployment does not cause an error. (Done)
 
 ---
 
@@ -148,18 +149,18 @@
 
 #### App Installation
 
-- When the “Install” button is clicked:
-  - Save the app to localStorage.
-  - If the app is already installed, show a disabled button with the text `Installed`.
+- When the “Install” button is clicked: (Done)
+  - Save the app to localStorage. (Done)
+  - If the app is already installed, show a disabled button with the text `Installed`. (Done)
 
-#### My Installation Page
+#### My Installation Page (Done)
 
-- Create a page named “My Installation” following the Figma design.
-- Display all installed apps as cards.
-- Include an Uninstall button:
+- Create a page named “My Installation” following the Figma design. (Done)
+- Display all installed apps as cards. (Done)
+- Include an Uninstall button: (Done)
   - Clicking it
-    - removes the app from both the UI and localStorage.
-    - Show an Toast with some relevant message
+    - removes the app from both the UI and localStorage. (Done)
+    - Show an Toast with some relevant message (Done)
 
 ---
 
@@ -186,3 +187,12 @@
 - Reloading from any route must work correctly without showing a 404 error.
 
 ---
+
+
+
+### Need Improvement
+  - Custom design for toast msz
+  - responsiveness 
+  - Show a loading animation during:
+    - Page navigation. 
+    - Search operation.

@@ -2,7 +2,6 @@ import { faGooglePlay } from '@fortawesome/free-brands-svg-icons/faGooglePlay';
 import { faStar } from '@fortawesome/free-solid-svg-icons/faStar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import './States.css'
 import { faCloudArrowDown } from '@fortawesome/free-solid-svg-icons/faCloudArrowDown';
 
 const States = () => {
