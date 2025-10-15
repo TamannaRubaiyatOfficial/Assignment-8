@@ -48,7 +48,7 @@ const Apps = () => {
                     </label>
                 </div>
 
-                <div className='grid grid-cols-4 gap-6'>
+                <div className='grid lg:grid-cols-3 xl:grid-cols-4 gap-6'>
                     {
                         (filteredApp.length > 0) ?
                             filteredApp.map(app => <SingleApp

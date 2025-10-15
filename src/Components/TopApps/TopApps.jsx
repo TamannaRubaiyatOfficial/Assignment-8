@@ -15,7 +15,7 @@ const TopApps = () => {
                     subtitle='Explore All Trending Apps on the Market developed by us'
                 ></SectionHeading>
 
-                <div className='grid grid-cols-4 gap-6 mt-10'>
+                <div className='grid lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-10'>
                     {
                         topAppData.map(topApp => <TopApp
                                                     key={topApp.id}
